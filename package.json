@@ -2,11 +2,11 @@
   "name": "Proyecto",
   "version": "1.0.0",
   "description": "<img src=\"assets/Saludo.webp\" height=\"150px\">",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Daphne",
   "license": "EPL-2.0"
 }
